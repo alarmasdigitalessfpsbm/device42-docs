@@ -1,0 +1,18 @@
+# md5sum_totalbytes = 0x1d1e8cc
+d467c2b3044f13c4c112ba6c02739617  ./[BOOT]/0-Boot-NoEmul.img
+71d7aacd6c4122851dcbe68b55565b1b  ./EFI/BOOT/BOOTAA64_original.efi
+210c95645bb3a86a88604a96ecdd0376  ./EFI/BOOT/BOOTIA32_original.efi
+065cc30eae71ac84c428dec0bf1a6fd6  ./EFI/BOOT/BOOTLOONGARCH64_original.efi
+04b3dfb93b457e65faa0949f58a65dc1  ./EFI/BOOT/BOOTRISCV64_original.efi
+f092bdcaeb106c0aab6d668801fa1114  ./EFI/BOOT/BOOTx64_original.efi
+a12d232881d91cdad43d6730f88a3875  ./Mosby.nsh
+c85667234a44db74f138743f9f95e6ac  ./Mosby.txt
+c4c51a48a0f277c8707230ca84edaf9d  ./Mosby_aa64.efi
+ed2f56d4b7eb5af5c7047691d81be087  ./Mosby_arm.efi
+0d75980611f6e8b4feb56d27e35f5e90  ./Mosby_ia32.efi
+2cc0c520049ffa81b13fa94933431043  ./Mosby_loongarch64.efi
+d766042898960002e717d637703c501c  ./Mosby_riscv64.efi
+430083f6da2f72752ea215b18cfec2e9  ./Mosby_x64.efi
+9a9ac5c11fedb53346a828b96657f30b  ./README.txt
+d467c2b3044f13c4c112ba6c02739617  ./[BOOT]/0-Boot-NoEmul.img
+cde10a93190abcba1604a070a2667ce5  ./boot.catalog
